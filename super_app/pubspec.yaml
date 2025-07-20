@@ -1,0 +1,26 @@
+name: super_app
+description: A super app that can load mini apps
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.0 <4.0.0'
+  flutter: ">=3.7.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  mpcore: 
+    path: ../../mbflutter/packages/mpcore
+  mp_flutter_runtime:
+    path: ../../mbflutter/packages/mp_flutter_runtime
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/mini_app_example.mpk
