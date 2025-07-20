@@ -1,0 +1,21 @@
+name: counter_mini_app
+description: A counter mini app example using mpflutter
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.0 <4.0.0'
+  flutter: ">=3.7.0"
+
+dependencies:
+  flutter:
+    path: ../../mbflutter/packages/flutter
+  mpcore: 
+    path: ../../mbflutter/packages/mpcore
+  mp_build_tools:
+    path: ../../mbflutter/packages/mp_build_tools
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true 

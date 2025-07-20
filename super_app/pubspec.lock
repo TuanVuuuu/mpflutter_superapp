@@ -33,14 +33,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.10.0"
-  boolean_selector:
-    dependency: transitive
-    description:
-      name: boolean_selector
-      sha256: "6cfb5af12253eaf2b368f07bacc5a80d1301a071c73360d746b7f2e32d762c66"
-      url: "https://pub.dev"
-    source: hosted
-    version: "2.1.1"
   cached_network_image:
     dependency: transitive
     description:
@@ -185,14 +177,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "3.0.0"
-  fake_async:
-    dependency: transitive
-    description:
-      name: fake_async
-      sha256: "511392330127add0b769b75a987850d136345d9227c6b94c96a04cf4a391bf78"
-      url: "https://pub.dev"
-    source: hosted
-    version: "1.3.1"
   ffi:
     dependency: transitive
     description:
@@ -350,24 +334,11 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "7.0.0"
-  flutter_test:
-    dependency: "direct dev"
-    description: flutter
-    source: sdk
-    version: "0.0.0"
   flutter_web_plugins:
     dependency: transitive
     description: flutter
     source: sdk
     version: "0.0.0"
-  glob:
-    dependency: transitive
-    description:
-      name: glob
-      sha256: "0e7014b3b7d4dac1ca4d6114f82bf1782ee86745b9b42a92c9289c23d8a0ab63"
-      url: "https://pub.dev"
-    source: hosted
-    version: "2.1.2"
   http:
     dependency: transitive
     description:
@@ -464,14 +435,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "4.8.1"
-  json_patch:
-    dependency: transitive
-    description:
-      name: json_patch
-      sha256: "3c567cdf26dd594b220bae1ee7b1f044d2470c61ac43d2bdd9cc7dd33eebc111"
-      url: "https://pub.dev"
-    source: hosted
-    version: "2.1.1"
   lints:
     dependency: transitive
     description:
@@ -480,14 +443,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.0.1"
-  matcher:
-    dependency: transitive
-    description:
-      name: matcher
-      sha256: "16db949ceee371e9b99d22f88fa3a73c4e59fd0afed0bd25fc336eb76c198b72"
-      url: "https://pub.dev"
-    source: hosted
-    version: "0.12.13"
   material_color_utilities:
     dependency: transitive
     description:
@@ -512,14 +467,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.0.4"
-  mime_type:
-    dependency: transitive
-    description:
-      name: mime_type
-      sha256: d652b613e84dac1af28030a9fba82c0999be05b98163f9e18a0849c6e63838bb
-      url: "https://pub.dev"
-    source: hosted
-    version: "1.0.1"
   mp_flutter_runtime:
     dependency: "direct main"
     description:
@@ -534,13 +481,6 @@ packages:
       relative: true
     source: path
     version: "2.0.4"
-  mpcore:
-    dependency: "direct main"
-    description:
-      path: "../../mbflutter/packages/mpcore"
-      relative: true
-    source: path
-    version: "0.0.1"
   nm:
     dependency: transitive
     description:
@@ -802,14 +742,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.4.5+1"
-  stack_trace:
-    dependency: transitive
-    description:
-      name: stack_trace
-      sha256: c3c7d8edb15bee7f0f74debd4b9c5f3c2ea86766fe4178eb2a18eb30a0bdaed5
-      url: "https://pub.dev"
-    source: hosted
-    version: "1.11.0"
   stream_channel:
     dependency: transitive
     description:
@@ -842,14 +774,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.2.1"
-  test_api:
-    dependency: transitive
-    description:
-      name: test_api
-      sha256: ad540f65f92caa91bf21dfc8ffb8c589d6e4dc0c2267818b4cc2792857706206
-      url: "https://pub.dev"
-    source: hosted
-    version: "0.4.16"
   typed_data:
     dependency: transitive
     description:
@@ -858,14 +782,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.3.2"
-  usage:
-    dependency: transitive
-    description:
-      name: usage
-      sha256: "0bdbde65a6e710343d02a56552eeaefd20b735e04bfb6b3ee025b6b22e8d0e15"
-      url: "https://pub.dev"
-    source: hosted
-    version: "4.1.1"
   uuid:
     dependency: transitive
     description:
@@ -913,22 +829,6 @@ packages:
       relative: true
     source: path
     version: "0.0.1"
-  vm_service:
-    dependency: transitive
-    description:
-      name: vm_service
-      sha256: "422eda09e2a50eb27fe9eca2c897d624cea7fa432a8442e1ea1a10d50a4321ab"
-      url: "https://pub.dev"
-    source: hosted
-    version: "6.2.0"
-  watcher:
-    dependency: transitive
-    description:
-      name: watcher
-      sha256: "6a7f46926b01ce81bfc339da6a7f20afbe7733eff9846f6d6a5466aa4c6667c0"
-      url: "https://pub.dev"
-    source: hosted
-    version: "1.0.2"
   waterfall_flow:
     dependency: transitive
     description:
