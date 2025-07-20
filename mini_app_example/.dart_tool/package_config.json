@@ -1,0 +1,200 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "async",
+      "rootUri": "file:///Users/nguyentuanvu/.pub-cache/hosted/pub.dev/async-2.10.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "characters",
+      "rootUri": "file:///Users/nguyentuanvu/.pub-cache/hosted/pub.dev/characters-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "cli_dialog",
+      "rootUri": "file:///Users/nguyentuanvu/.pub-cache/hosted/pub.dev/cli_dialog-0.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "clock",
+      "rootUri": "file:///Users/nguyentuanvu/.pub-cache/hosted/pub.dev/clock-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "collection",
+      "rootUri": "file:///Users/nguyentuanvu/.pub-cache/hosted/pub.dev/collection-1.17.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "crypto",
+      "rootUri": "file:///Users/nguyentuanvu/.pub-cache/hosted/pub.dev/crypto-3.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "dart_console",
+      "rootUri": "file:///Users/nguyentuanvu/.pub-cache/hosted/pub.dev/dart_console-1.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "ffi",
+      "rootUri": "file:///Users/nguyentuanvu/.pub-cache/hosted/pub.dev/ffi-2.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "file",
+      "rootUri": "file:///Users/nguyentuanvu/.pub-cache/hosted/pub.dev/file-6.1.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter",
+      "rootUri": "../../../mbflutter/packages/flutter",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "flutter_lints",
+      "rootUri": "file:///Users/nguyentuanvu/.pub-cache/hosted/pub.dev/flutter_lints-2.0.3",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "glob",
+      "rootUri": "file:///Users/nguyentuanvu/.pub-cache/hosted/pub.dev/glob-2.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "http",
+      "rootUri": "file:///Users/nguyentuanvu/.pub-cache/hosted/pub.dev/http-0.13.6",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    },
+    {
+      "name": "http_parser",
+      "rootUri": "file:///Users/nguyentuanvu/.pub-cache/hosted/pub.dev/http_parser-4.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "intl",
+      "rootUri": "file:///Users/nguyentuanvu/.pub-cache/hosted/pub.dev/intl-0.17.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "json_patch",
+      "rootUri": "file:///Users/nguyentuanvu/.pub-cache/hosted/pub.dev/json_patch-2.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.2"
+    },
+    {
+      "name": "lints",
+      "rootUri": "file:///Users/nguyentuanvu/.pub-cache/hosted/pub.dev/lints-2.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "meta",
+      "rootUri": "file:///Users/nguyentuanvu/.pub-cache/hosted/pub.dev/meta-1.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "mime_type",
+      "rootUri": "file:///Users/nguyentuanvu/.pub-cache/hosted/pub.dev/mime_type-1.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "mp_build_tools",
+      "rootUri": "../../../mbflutter/packages/mp_build_tools",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "mpcore",
+      "rootUri": "../../../mbflutter/packages/mpcore",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "path",
+      "rootUri": "file:///Users/nguyentuanvu/.pub-cache/hosted/pub.dev/path-1.8.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "source_span",
+      "rootUri": "file:///Users/nguyentuanvu/.pub-cache/hosted/pub.dev/source_span-1.9.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "string_scanner",
+      "rootUri": "file:///Users/nguyentuanvu/.pub-cache/hosted/pub.dev/string_scanner-1.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "term_glyph",
+      "rootUri": "file:///Users/nguyentuanvu/.pub-cache/hosted/pub.dev/term_glyph-1.2.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "typed_data",
+      "rootUri": "file:///Users/nguyentuanvu/.pub-cache/hosted/pub.dev/typed_data-1.3.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "usage",
+      "rootUri": "file:///Users/nguyentuanvu/.pub-cache/hosted/pub.dev/usage-4.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "vector_math",
+      "rootUri": "file:///Users/nguyentuanvu/.pub-cache/hosted/pub.dev/vector_math-2.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "vm_service",
+      "rootUri": "file:///Users/nguyentuanvu/.pub-cache/hosted/pub.dev/vm_service-6.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "watcher",
+      "rootUri": "file:///Users/nguyentuanvu/.pub-cache/hosted/pub.dev/watcher-1.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "win32",
+      "rootUri": "file:///Users/nguyentuanvu/.pub-cache/hosted/pub.dev/win32-2.7.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "mini_app_example",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    }
+  ],
+  "generated": "2025-07-20T17:15:45.079229Z",
+  "generator": "pub",
+  "generatorVersion": "2.19.6"
+}
